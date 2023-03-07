@@ -4,10 +4,10 @@ Applied Ai (Papers, Articles &amp; Videos, in production with results)
 ---
 
 Figuring out how to implement your ML project? Learn from **How other organizations have done it in past?**:
-- **How** problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
-- **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
-- **Why** it works, the science behind it with research, literature, and references 📂
-- **What** real-world results were achieved (so you can better assess ROI ⏰💰📈)
+- **How** problem is framed (e.g., personalization as recsys vs. search vs. sequences)
+- **What** machine learning techniques worked (and sometimes, what didn't)
+- **Why** it works, the science behind it with research, literature, and references
+- **What** real-world results were achieved (so you can better assess ROI)
 
 ---
 
