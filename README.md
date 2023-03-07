@@ -141,14 +141,16 @@ Figuring out how to implement your ML project? Learn from **How other organizati
 ---
 
 ## Sequence Modelling
-1. [Recommending Complementary Products in E-Commerce Push Notifications with Mixture Models](https://arxiv.org/abs/1707.08113) ([Paper](https://arxiv.org/pdf/1707.08113.pdf)) `Alibaba`
-2. [Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/abs/1905.09248) ([Paper](https://arxiv.org/pdf/1905.09248.pdf))`Alibaba`
-3. [Search-based User Interest Modeling with Lifelong Sequential Behavior Data for CTR Prediction](https://arxiv.org/abs/2006.05639) ([Paper](https://arxiv.org/pdf/2006.05639.pdf)) `Alibaba`
-4. [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) ([Paper](https://arxiv.org/pdf/1511.03677.pdf)) `Google`
-5. [Deep Learning for Understanding Consumer Histories](https://engineering.zalando.com/posts/2016/10/deep-learning-for-understanding-consumer-histories.html) ([Paper](https://doogkong.github.io/2017/papers/paper2.pdf)) `Zalando`
-6. [Continual Prediction of Notification Attendance with Classical and Deep Network Approaches](https://arxiv.org/abs/1712.07120) ([Paper](https://arxiv.org/pdf/1712.07120.pdf)) `Telefonica`
-7. [Using Recurrent Neural Network Models for Early Detection of Heart Failure Onset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/) ([Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/pdf/ocw112.pdf)) `Sutter Health`
-8. [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) ([Paper](https://arxiv.org/pdf/1511.05942.pdf)) `Sutter Health`
+|Topic |Paper / Article / Video |Company |
+|------|------------------------|--------|
+|[Recommending Complementary Products in E-Commerce Push Notifications with Mixture Models](https://arxiv.org/abs/1707.08113)|[Paper](https://arxiv.org/pdf/1707.08113.pdf)| `Alibaba`|
+|[Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/abs/1905.09248)| [Paper](https://arxiv.org/pdf/1905.09248.pdf)| `Alibaba`|
+|[Search-based User Interest Modeling with Lifelong Sequential Behavior Data for CTR Prediction](https://arxiv.org/abs/2006.05639)|[Paper](https://arxiv.org/pdf/2006.05639.pdf)| `Alibaba`|
+|[Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677)|[Paper](https://arxiv.org/pdf/1511.03677.pdf)| `Google`|
+|[Deep Learning for Understanding Consumer Histories](https://engineering.zalando.com/posts/2016/10/deep-learning-for-understanding-consumer-histories.html)|[Paper](https://doogkong.github.io/2017/papers/paper2.pdf)| `Zalando`|
+|[Continual Prediction of Notification Attendance with Classical and Deep Network Approaches](https://arxiv.org/abs/1712.07120)|[Paper](https://arxiv.org/pdf/1712.07120.pdf)| `Telefonica`|
+|[Using Recurrent Neural Network Models for Early Detection of Heart Failure Onset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/)|[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/pdf/ocw112.pdf)| `Sutter Health`|
+|[Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942)|[Paper](https://arxiv.org/pdf/1511.05942.pdf)| `Sutter Health`|
 
 ---
 
