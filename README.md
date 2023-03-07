@@ -157,7 +157,7 @@ Figuring out how to implement your ML project? Learn from **How other organizati
 |------|------------------------|--------|
 |[How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats](https://eng.uber.com/uber-eats-trip-optimization/) | --|`Uber` |
 |[Next-Generation Optimization for Dasher Dispatch at DoorDash](https://doordash.engineering/2020/02/28/next-generation-optimization-for-dasher-dispatch-at-doordash/) | --|`DoorDash` |
-|[Matchmaking in Lyft Line (Part 1)](https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4) [(Part 2)](https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008) [(Part 3)](https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51) | --|`Lyft` |  
+|[Matchmaking in Lyft Line (Part 1)](https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4) <br>[(Part 2)](https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008) <br>[(Part 3)](https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51) | --|`Lyft` |  
 |[The Data and Science behind GrabShare Carpooling](https://ieeexplore.ieee.org/document/8259801) |**Help me in Updating Paper** |`Grab` |  
 
 ---
