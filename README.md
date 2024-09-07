@@ -14,15 +14,25 @@ Figuring out how to implement your ML project? Learn from **How other organizati
 ## Content Table
 
 1.[Practices](#practices)
+
 2. [Failures](#failures)
+
 3. [Data Quality](#data-quality)
+
 4. [Data Engineering](#data-engineering)
+
 5. [Classification](#classification)
+
 6. [Regression](#regression)
+
 7. [Computer Vision](#computer-vision)
+
 8. [Natural Language Processing](#natural-language-processing)
+
 9. [Sequence Modelling](#sequence-modelling)
+
 10. [Optimization](#optimization)
+
 11. [Validation and A/B Testing](#validation-and-ab-testing)
 
 ---
